@@ -13,3 +13,4 @@ for (const arg of args) {
   const delay = parseInt(arg);
   beepAfterDelay(delay);
 }
+// I couldn`t make the sound feature work 
